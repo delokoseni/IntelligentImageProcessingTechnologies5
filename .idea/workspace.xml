@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1094ea1-2eca-4081-a47e-06b2f73224ef" name="Changes" comment="Черновой вариант.">
+    <list default="true" id="a1094ea1-2eca-4081-a47e-06b2f73224ef" name="Changes" comment="Убрал лишние пустые строки, часть перевел на русский.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
@@ -76,11 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1778493032862</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Убрал лишние пустые строки, часть перевел на русский.">
+      <option name="closed" value="true" />
+      <created>1778493838843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778493838843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Черновой вариант." />
-    <option name="LAST_COMMIT_MESSAGE" value="Черновой вариант." />
+    <MESSAGE value="Убрал лишние пустые строки, часть перевел на русский." />
+    <option name="LAST_COMMIT_MESSAGE" value="Убрал лишние пустые строки, часть перевел на русский." />
   </component>
 </project>
